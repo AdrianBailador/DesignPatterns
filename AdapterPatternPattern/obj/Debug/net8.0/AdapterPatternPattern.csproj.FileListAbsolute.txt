@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/bin/Debug/net8.0/AdapterPatternPattern
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/bin/Debug/net8.0/AdapterPatternPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/bin/Debug/net8.0/AdapterPatternPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/bin/Debug/net8.0/AdapterPatternPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/bin/Debug/net8.0/AdapterPatternPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/refint/AdapterPatternPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/AdapterPatternPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/AdapterPatternPattern/obj/Debug/net8.0/ref/AdapterPatternPattern.dll

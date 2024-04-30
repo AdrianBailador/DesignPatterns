@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/refint/DecoratorPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/DecoratorPattern/obj/Debug/net8.0/ref/DecoratorPattern.dll

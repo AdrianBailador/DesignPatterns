@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/bin/Debug/net8.0/DependencyUnjectionPattern
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/bin/Debug/net8.0/DependencyUnjectionPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/bin/Debug/net8.0/DependencyUnjectionPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/bin/Debug/net8.0/DependencyUnjectionPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/bin/Debug/net8.0/DependencyUnjectionPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/refint/DependencyUnjectionPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/DependencyUnjectionPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/DependencyInjectionPattern/obj/Debug/net8.0/ref/DependencyUnjectionPattern.dll

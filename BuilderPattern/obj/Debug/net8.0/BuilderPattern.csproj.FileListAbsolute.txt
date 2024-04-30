@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/bin/Debug/net8.0/BuilderPattern
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/bin/Debug/net8.0/BuilderPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/bin/Debug/net8.0/BuilderPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/bin/Debug/net8.0/BuilderPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/bin/Debug/net8.0/BuilderPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/refint/BuilderPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/BuilderPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/BuilderPattern/obj/Debug/net8.0/ref/BuilderPattern.dll

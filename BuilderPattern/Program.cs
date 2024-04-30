@@ -52,7 +52,7 @@ namespace BuilderPattern
         static void Main(string[] args)
         {
             CarBuilder builder = new CarBuilder();
-            Car car = builder.SetMake("Toyota").SetModel("Camry").SetYear(2022).Build();
+            Car car = builder.SetMake("Audi").SetModel("Q7").SetYear(2024).Build();
 
             car.Display();
         }

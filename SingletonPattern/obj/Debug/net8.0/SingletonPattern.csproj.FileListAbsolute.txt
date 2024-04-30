@@ -1,0 +1,14 @@
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/bin/Debug/net8.0/SingletonPattern
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/bin/Debug/net8.0/SingletonPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/bin/Debug/net8.0/SingletonPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/bin/Debug/net8.0/SingletonPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/bin/Debug/net8.0/SingletonPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/refint/SingletonPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/SingletonPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/SingletonPattern/obj/Debug/net8.0/ref/SingletonPattern.dll

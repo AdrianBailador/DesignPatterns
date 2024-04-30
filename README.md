@@ -1,6 +1,4 @@
-Certainly! Here's the README in UK English format:
 
-```markdown
 # DesignPatternsSolution
 
 This repository contains a Visual Studio Code solution for implementing various design patterns in C# using .NET Core. Each design pattern is implemented in a separate console project within the solution.
@@ -75,4 +73,3 @@ This will run only the `SingletonPattern` project. Replace `SingletonPattern` wi
 
 Each design pattern is implemented in its own project and contains code examples demonstrating its usage.
 
-```

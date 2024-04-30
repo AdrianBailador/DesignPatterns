@@ -1,5 +1,5 @@
 
-# DesignPatternsSolution
+# Design Patterns
 
 This repository contains a Visual Studio Code solution for implementing various design patterns in C# using .NET Core. Each design pattern is implemented in a separate console project within the solution.
 

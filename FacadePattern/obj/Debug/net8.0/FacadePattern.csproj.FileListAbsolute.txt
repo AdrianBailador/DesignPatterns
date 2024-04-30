@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/bin/Debug/net8.0/FacadePattern
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/bin/Debug/net8.0/FacadePattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/bin/Debug/net8.0/FacadePattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/bin/Debug/net8.0/FacadePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/bin/Debug/net8.0/FacadePattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/refint/FacadePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/FacadePattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/FacadePattern/obj/Debug/net8.0/ref/FacadePattern.dll

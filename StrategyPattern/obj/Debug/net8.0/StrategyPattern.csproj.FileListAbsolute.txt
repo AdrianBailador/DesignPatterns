@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/bin/Debug/net8.0/StrategyPattern
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/bin/Debug/net8.0/StrategyPattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/bin/Debug/net8.0/StrategyPattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/bin/Debug/net8.0/StrategyPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/bin/Debug/net8.0/StrategyPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/refint/StrategyPattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/StrategyPattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/StrategyPattern/obj/Debug/net8.0/ref/StrategyPattern.dll

@@ -1,0 +1,15 @@
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/bin/Debug/net8.0/BridgePattern
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/bin/Debug/net8.0/BridgePattern.deps.json
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/bin/Debug/net8.0/BridgePattern.runtimeconfig.json
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/bin/Debug/net8.0/BridgePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/bin/Debug/net8.0/BridgePattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.AssemblyInfoInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.AssemblyInfo.cs
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.csproj.CoreCompileInputs.cache
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.sourcelink.json
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/refint/BridgePattern.dll
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.pdb
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/BridgePattern.genruntimeconfig.cache
+/Users/adrianbailador/Desktop/DesignPattners/BridgePattern/obj/Debug/net8.0/ref/BridgePattern.dll

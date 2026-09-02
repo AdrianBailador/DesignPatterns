@@ -33,7 +33,7 @@ namespace CommandPattern
 
     public class Invoker
     {
-        private ICommand command;
+        private ICommand? command;
 
         public void SetCommand(ICommand command)
         {
@@ -42,6 +42,7 @@ namespace CommandPattern
 
         public void ExecuteCommand()
         {
+            if (command == null) throw new InvalidOperationException("No command has been set.");
             command.Execute();
         }
     }

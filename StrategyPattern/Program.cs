@@ -15,7 +15,7 @@ namespace StrategyPattern
         }
     }
 
-    public class OperationSubstract : IStrategy
+    public class OperationSubtract : IStrategy
     {
         public int DoOperation(int num1, int num2)
         {
@@ -53,7 +53,7 @@ namespace StrategyPattern
             Context context = new Context(new OperationAdd());
             Console.WriteLine("5 + 3 = " + context.ExecuteStrategy(5, 3));
 
-            context = new Context(new OperationSubstract());
+            context = new Context(new OperationSubtract());
             Console.WriteLine("5 - 3 = " + context.ExecuteStrategy(5, 3));
 
             context = new Context(new OperationMultiply());

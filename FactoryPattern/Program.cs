@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace FactoryPattern
 {
@@ -34,7 +34,7 @@ namespace FactoryPattern
                 case "Cat":
                     return new Cat();
                 default:
-                    throw new Exception("Invalid animal type");
+                    throw new ArgumentException($"Invalid animal type: {animalType}", nameof(animalType));
             }
         }
     }

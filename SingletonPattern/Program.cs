@@ -1,28 +1,14 @@
-﻿using System;
+using System;
 
 namespace SingletonPattern
 {
     public sealed class Singleton
     {
-        private static Singleton? instance = null;
-        private static readonly object padlock = new object();
+        private static readonly Lazy<Singleton> lazyInstance = new(() => new Singleton());
 
-        Singleton() {}
+        private Singleton() { }
 
-        public static Singleton Instance
-        {
-            get
-            {
-                lock (padlock)
-                {
-                    if (instance == null)
-                    {
-                        instance = new Singleton();
-                    }
-                    return instance;
-                }
-            }
-        }
+        public static Singleton Instance => lazyInstance.Value;
 
         public void SayHello()
         {

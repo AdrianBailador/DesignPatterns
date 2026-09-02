@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace DecoratorPattern
 {
@@ -41,6 +41,26 @@ namespace DecoratorPattern
         }
     }
 
+    public class SugarCoffee : Coffee
+    {
+        protected Coffee coffee;
+
+        public SugarCoffee(Coffee coffee)
+        {
+            this.coffee = coffee;
+        }
+
+        public override double GetCost()
+        {
+            return coffee.GetCost() + 0.25;
+        }
+
+        public override string GetIngredients()
+        {
+            return coffee.GetIngredients() + ", Sugar";
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -52,8 +72,13 @@ namespace DecoratorPattern
 
             Coffee milkCoffee = new MilkCoffee(simpleCoffee);
             Console.WriteLine("\nMilk Coffee:");
-            Console.WriteLine("Cost: " + milkCoffee.GetCost()+ "€");
-            Console.WriteLine("Ingredients: " + milkCoffee.GetIngredients() );
+            Console.WriteLine("Cost: " + milkCoffee.GetCost() + "€");
+            Console.WriteLine("Ingredients: " + milkCoffee.GetIngredients());
+
+            Coffee milkSugarCoffee = new SugarCoffee(milkCoffee);
+            Console.WriteLine("\nMilk + Sugar Coffee:");
+            Console.WriteLine("Cost: " + milkSugarCoffee.GetCost() + "€");
+            Console.WriteLine("Ingredients: " + milkSugarCoffee.GetIngredients());
         }
     }
 }

@@ -95,9 +95,21 @@ This will run only the `SingletonPattern` project. Replace `SingletonPattern` wi
 
 Each design pattern is implemented in its own project and contains code examples demonstrating its usage.
 
+## Combined Example
+
+Every project above shows one pattern in isolation. `OrderProcessingExample`
+shows Builder, Strategy and Observer working together in a single, small
+order-processing scenario — see its [README](OrderProcessingExample/README.md)
+for how they fit together.
+
+```bash
+dotnet run --project OrderProcessingExample
+```
+
 ## Running the Tests
 
-The `DesignPatterns.Tests` project covers all 18 patterns above. Run it with:
+The `DesignPatterns.Tests` project covers all 18 patterns and the combined
+example above. Run it with:
 
 ```bash
 dotnet test DesignPatterns.sln

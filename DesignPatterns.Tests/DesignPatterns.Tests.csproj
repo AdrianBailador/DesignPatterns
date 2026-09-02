@@ -34,6 +34,7 @@
     <ProjectReference Include="..\StatePattern\StatePattern.csproj" />
     <ProjectReference Include="..\StrategyPattern\StrategyPattern.csproj" />
     <ProjectReference Include="..\TemplateMethodPattern\TemplateMethodPattern.csproj" />
+    <ProjectReference Include="..\OrderProcessingExample\OrderProcessingExample.csproj" />
   </ItemGroup>
 
 </Project>

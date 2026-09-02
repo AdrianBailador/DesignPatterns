@@ -1,0 +1,43 @@
+name: Build and Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Restore
+        run: dotnet restore DesignPatterns.sln
+
+      - name: Build
+        run: dotnet build DesignPatterns.sln --no-restore --configuration Release
+
+      - name: Format check
+        run: dotnet format DesignPatterns.sln --verify-no-changes --no-restore
+
+      - name: Test with coverage
+        run: >
+          dotnet test DesignPatterns.sln --no-build --configuration Release
+          --collect:"XPlat Code Coverage" --results-directory ./coverage
+
+      - name: Coverage summary
+        uses: danielpalme/ReportGenerator-GitHub-Action@5
+        with:
+          reports: coverage/**/coverage.cobertura.xml
+          targetdir: coverage/report
+          reporttypes: MarkdownSummaryGithub
+
+      - name: Publish coverage summary
+        run: cat coverage/report/SummaryGithub.md >> "$GITHUB_STEP_SUMMARY"

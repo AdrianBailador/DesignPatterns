@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.4" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdapterPattern\AdapterPattern.csproj" />
+    <ProjectReference Include="..\BridgePattern\BridgePattern.csproj" />
+    <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj" />
+    <ProjectReference Include="..\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj" />
+    <ProjectReference Include="..\CommandPattern\CommandPattern.csproj" />
+    <ProjectReference Include="..\CompositePattern\CompositePattern.csproj" />
+    <ProjectReference Include="..\DecoratorPattern\DecoratorPattern.csproj" />
+    <ProjectReference Include="..\DependencyInjectionPattern\DependencyInjectionPattern.csproj" />
+    <ProjectReference Include="..\FacadePattern\FacadePattern.csproj" />
+    <ProjectReference Include="..\FactoryPattern\FactoryPattern.csproj" />
+    <ProjectReference Include="..\IteratorPattern\IteratorPattern.csproj" />
+    <ProjectReference Include="..\ObserverPattern\ObserverPattern.csproj" />
+    <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj" />
+    <ProjectReference Include="..\ProxyPattern\ProxyPattern.csproj" />
+    <ProjectReference Include="..\SingletonPattern\SingletonPattern.csproj" />
+    <ProjectReference Include="..\StatePattern\StatePattern.csproj" />
+    <ProjectReference Include="..\StrategyPattern\StrategyPattern.csproj" />
+    <ProjectReference Include="..\TemplateMethodPattern\TemplateMethodPattern.csproj" />
+  </ItemGroup>
+
+</Project>

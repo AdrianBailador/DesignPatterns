@@ -1,14 +1,14 @@
 
 # Design Patterns
 
-This repository contains a Visual Studio Code solution for implementing various design patterns in C# using .NET Core. Each design pattern is implemented in a separate console project within the solution.
+This repository contains a .NET 10 solution implementing various design patterns in C#. Each design pattern is implemented in a separate console project within the solution.
 
 ## Project Structure
 
 The repository is organized as follows:
 
 ```
-DesignPatternsSolution/
+DesignPatterns/
 │
 ├── SingletonPattern/
 │   ├── Program.cs
@@ -32,7 +32,7 @@ Each folder represents a design pattern and contains a console project that impl
 1. Open a terminal and navigate to the directory of the project you want to run. For example, to run the Singleton pattern:
 
 ```bash
-cd /path/to/project/DesignPatternsSolution/SingletonPattern
+cd /path/to/DesignPatterns/SingletonPattern
 ```
 
 2. Build the project using the `dotnet build` command:

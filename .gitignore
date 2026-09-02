@@ -10,5 +10,8 @@
 *.user
 *.suo
 
+## Test coverage output
+/coverage/
+
 ## macOS
 .DS_Store

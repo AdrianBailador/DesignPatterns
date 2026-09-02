@@ -1,0 +1,14 @@
+## .NET build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## macOS
+.DS_Store
